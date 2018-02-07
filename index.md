@@ -25,12 +25,16 @@ Hi! I’m Ao. I’m currently finishing my graduate study in Business Analytics 
 
 •	Data Visualization: Tableau, PowerBI, Amazon Kinesis, Google Analytics   
 
-[My LinkedIn]()([https://www.linkedin.com/in/aoliu95/][3])  
-[My Github Repository]()(https://github.com/aoliu95)
+![][image-1] [My LinkedIn][2] 
+![][image-2][My Github Repository][3]
 
 #### Want to connect?
 
-Please fill out this [form][5] and I will send back as fast as I can!
+Please fill out this [form][4] and I will send back as fast as I can!
 
-[3]:	https://www.linkedin.com/in/aoliu95/
-[5]:	https://goo.gl/forms/Mii3eopcZbfhr5K32
+[2]:	https://www.linkedin.com/in/aoliu95/
+[3]:	https://github.com/aoliu95
+[4]:	https://goo.gl/forms/Mii3eopcZbfhr5K32
+
+[image-1]:	http://www.pvhc.net/img16/gsxrsxgkbvvczchuzufd.png
+[image-2]:	https://www.iconfinder.com/icons/291716/github_logo_social_social_network_icon
