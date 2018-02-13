@@ -21,6 +21,6 @@ Hi! I’m Ao. I’m currently finishing my graduate study in Business Analytics 
 
 Please fill out this [form][3] and I will send back as fast as I can!
 
-[1]:	www.linkedin.com/in/ao-liu
+[1]:	https://www.linkedin.com/in/ao-liu
 [2]:	https://github.com/aoliu95
 [3]:	https://goo.gl/forms/Mii3eopcZbfhr5K32
