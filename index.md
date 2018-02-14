@@ -17,10 +17,13 @@ Hi! I’m Ao. I’m currently finishing my graduate study in Business Analytics 
  [My LinkedIn][1] 
 [My Github Repository][2]
 
+### [My Blog][3]
+
 #### Want to connect?
 
-Please fill out this [form][3] and I will send back as fast as I can!
+Please fill out this [form][4] and I will send back as fast as I can!
 
 [1]:	https://www.linkedin.com/in/ao-liu
 [2]:	https://github.com/aoliu95
-[3]:	https://goo.gl/forms/Mii3eopcZbfhr5K32
+[3]:	https://aoliu95.github.io/Blog
+[4]:	https://goo.gl/forms/Mii3eopcZbfhr5K32
