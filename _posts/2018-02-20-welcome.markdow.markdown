@@ -1,0 +1,14 @@
+---
+title: "Welcome!"
+layout: post
+date: 2018-02-20 15:32
+headerImage: false
+blog: true
+star: false
+author: Ao Liu
+description: First website post
+---
+
+## Welcome!
+
+Welcome to my personal website! I plan to update this site regularly throughout my time as a master student at University of Minnesota, where I am focusing on data analysis and machine learning. I hope to not only post about the progress of my research, but to also explore other ideas at the forefront of machine learning and make them more accessible. Look for the website to pick up more content in the upcoming months and years.
