@@ -9,6 +9,6 @@ author: Ao Liu
 description: How can Natural Language Processing predict your next word
 ---
 
-This is a [R-Shiny app](https://austin-liu.shinyapps.io/NLPNextWordPredicition/) based on N-gram Human Language Processing.
+This is a [R-Shiny app](https://austin-liu.shinyapps.io/NLPNextWordPredicition/) based on N-gram Human Language Processing.![Test Image](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/NLP.png)
 
 
