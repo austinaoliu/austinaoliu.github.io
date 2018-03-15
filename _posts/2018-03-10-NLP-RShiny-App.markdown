@@ -8,6 +8,7 @@ star: false
 author: Ao Liu
 description: How can Natural Language Processing predict your next word
 ---
+
 # 1.Data Processing
 * First, all non-English characters are removed; numbers, punctuation, whitespace was also removed. All text is also changed to lowercase.
 * Profane words are also removed. The project used Carnegie Mellon University's resource: [Offensive/Profane Word List.](https://www.cs.cmu.edu/~biglou/resources/bad-words.txt)
