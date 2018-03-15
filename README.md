@@ -11,4 +11,5 @@
 [3]:	http://rscss.io/
 [4]:	https://www.w3.org/Graphics/SVG/
 [5]:	https://travis-ci.org/
-[6]:	https://developers.google.com/speed/pagespeed/insights/?url=http://sergiokopplin.github.io/indigo/
+[6]:	https://developers.google.com/speed/pagespeed/insights/?url=https://z.umn.edu/aoliu
+
