@@ -19,7 +19,9 @@ This article would show you how I build a Rshiny app for Natural Language Proces
 * N-grams: indicate which words appear together in the text. (The higher the frequency of a certain n-gram, the more likely it is to be found in the corpus.)
 * The predictive algorithm uses the n-gram frequency to suggest/ predict the next word based on the users input. The model checks the phrase length and starts with the quintgram, then moves onto the quadgram and so on. The model is a version of a 'back-off' [model](https://en.wikipedia.org/wiki/Katz%27s_back-off_model).
 # 3.Actual R-shiny App
-This is the [R-Shiny app](https://austin-liu.shinyapps.io/NLPNextWordPredicition/) based on N-gram Human Language Processing.![Test Image](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/NLP.png)
+This is the [R-Shiny app](https://austin-liu.shinyapps.io/NLPNextWordPredicition/) based on N-gram Human Language Processing.
+
+![Test Image](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/NLP.png)
 
 
 
