@@ -4,7 +4,7 @@ layout: post
 date: 2018-03-17 01:19
 headerImage: false
 blog: true
-star: false
+star: true
 author: Ao Liu
 description: RShiny Dashboard for airlines and airports visualization
 ---

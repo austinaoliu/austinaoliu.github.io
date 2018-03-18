@@ -4,10 +4,12 @@ layout: post
 date: 2018-03-15 01:19
 headerImage: false
 blog: true
-star: false
+star: true
 author: Ao Liu
 description: How can Natural Language Processing predict your next word
 ---
+
+This article would show you how I build a Rshiny app for Natural Language Processing and Prediction.
 
 # 1.Data Processing
 * First, all non-English characters are removed; numbers, punctuation, whitespace was also removed. All text is also changed to lowercase.
