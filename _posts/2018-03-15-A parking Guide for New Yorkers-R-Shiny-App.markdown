@@ -1,16 +1,17 @@
 ---
-title: "A parking Guide for New Yorkers-R-Shiny"
+title: "Dashboard for Flight Delays"
 layout: post
-date: 2018-03-15 01:19
+date: 2018-03-17 01:19
 headerImage: false
 blog: true
 star: false
 author: Ao Liu
-description: A parking Guide for New Yorkers build by RShiny
+description: RShiny Dashboard for airlines and airports visualization
 ---
 
-In this post, I'll show you how I used RShiny to build a small app for parking information with Big Apple. 
+In this post, I'll show you how I used RShiny to build a live flight delay dashboard for different airlines and different airports.
 
-Data Source: New York Parking Open Data
+[RShiny Dashboard Link](https://austin-liu.shinyapps.io/FlightDashboard/)
+Data Source: [Kaggle Airlines Delay](https://www.kaggle.com/giovamata/airlinedelaycauses/data)
 
 
