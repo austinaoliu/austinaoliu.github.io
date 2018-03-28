@@ -20,6 +20,5 @@ One of the most sensitive data is the location history. Basically they know ever
 
 If you want to try out and be surprised. [Here is the app](https://austin-liu.shinyapps.io/google_location_privacy_app/).
 
-`Privacy: We are not going to be another Cambridge Analytica! Your data would be uploaded to RShiny's cache. It will only be used for the purpose of rendering this visualisation. ANY FILE would be permently wiped once you closed this page. You are also welcomed to audit the code at A Light Data Lab Github Page`
-
+`Privacy: We are not going to be another Cambridge Analytica! Your data would be uploaded to RShiny's cache. It will only be used for the purpose of rendering this visualisation. ANY FILE would be permently wiped once you closed the app. You are also welcomed to audit the code at` [A Light Data Lab Github Page](https://github.com/aoliu95/google_location_privacy_app)
 
