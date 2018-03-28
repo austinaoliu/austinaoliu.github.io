@@ -22,7 +22,7 @@ BigQuery is Google's solution for Big Data Analysis. Compared with Hadoop, BigQu
 The data is from Minnesota local airline travel records of 2013 and 2014, in CSV format with 800+ MB size.
 Data should first be uploaded onto Google Cloud Storge, or other Storge Service like S3. After that, heads to the Bigquery Control Pannel, and adds the file as your data source. Bigquery would automatically try to detect the schema. But you can also define it by yourself.
 
-<img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/Auth.png" alt="Drawing" style="width: 200px;"/>  
+<center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/Schma.png" alt="Drawing" style="width: 300px;"/> </center> 
 
 After adding the data to your BigQuery Data source, connect your Tableau to Bigquery by authenticating throught the start page.
 ##Why BigQuery+Tableau
