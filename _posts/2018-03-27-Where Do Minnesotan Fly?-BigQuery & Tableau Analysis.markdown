@@ -1,8 +1,8 @@
 ---
-title: "Where Do Minnesotan Fly?-Flight Big Data Analysis"
+title: "Where did Minnesotans Fly?-Flight Data Visualization"
 layout: post
 date: 2018-03-27 23:19
-headerImage: false
+headerImage: true
 blog: true
 star: true
 author: Ao Liu
@@ -16,5 +16,5 @@ Data Source: Flight History of [Sun Country Airlines
 
 Here is the [Tableau Dashboard](https://public.tableau.com/views/sun_2/Dashboard1?:embed=y&:display_count=yes&publish=yes)
 
-<iframe width = "645" height = "855" src="https://public.tableau.com/views/sun_2/Dashboard1?:embed=y&:showVizHome=no&:embed=true"/></iframe>
+
 
