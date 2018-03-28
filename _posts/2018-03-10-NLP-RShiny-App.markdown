@@ -1,5 +1,5 @@
 ---
-title: "R Shiny App:NLP Next Word Prediction"
+title: "R Shiny App: NLP Next Word Prediction"
 layout: post
 date: 2018-03-15 01:19
 headerImage: false
