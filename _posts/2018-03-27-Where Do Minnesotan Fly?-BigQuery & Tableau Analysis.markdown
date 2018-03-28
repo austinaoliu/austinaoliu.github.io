@@ -9,6 +9,7 @@ author: Ao Liu
 description: See the trend behind billion rows of Airline Travel Records  
 ---
 
+
 <center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/tableau_loading.png" style="width: 350px;"/> </center> 
 <center>Got GBs of data? Tired of waiting for Tableau's response?</center>
 
@@ -33,17 +34,24 @@ After adding the data to your BigQuery Data source, you can either wrote SQL que
 We all know Tableau is not very good at working with huge dataset, especially calculations. Now with Bigquery, Tableau would send the calculation request in SQL query to the cloud and get result instantly. I tried myself and it cuts my waiting time from 10+ seconds to **less than** 1 second. Bigquery also enables people to share the same dataset without actully owning the data. So that your workbook could be live and mobile.
 
 ## What do we learn about Minnesotan's data
+
 ### 1.Time 
 Minnesota people fly for different purposes on different seasons. During winter, people fly more for vacations and "warmer places", including **Las Vagas, Orlando or Cancun** (Especially during the days when temerature drops below 0). For other seasons, customers fly mainly for business purposes. Destinations includes San Francisco, Los Angeles and New York. 
+
 ###2. Advanced Booking
 It follows the similar trend with the purposes. For vocational travel, people tend to plan **well ahead**. You could even see people book over **3** months ahead for a trip to Orlando. For businss trip, there would be **less planning** for ticket booking.
+
 ###3. Booking Source
 **Outside booking** took over 40% of all the bookings. But we also noticed that, for vacational travels, customers also utlize "**Airline Vacation Bundle**" and "**Reservations**" more. Because a large porpotion of these customer are older generations. For business travel, we would see more in "Airline Website", as the average age for customers are younger.
+
 ###4.Airline Membership
 For different destinations, the proportion of Airline Membership among  passengers are also different. People who fly for **business travel** are more likely to become member of the Airline Club, as we see higher membership percentage for SFO, LAX and DFW. 
+
 ###5.Premiums for the Airline
 We would define the premium as the difference between ticket base price and what the passenger actual paid, which includes luggage fee, onboard purchase, taxes and other services. It's not surprising to see '**Vacation Package**' and '**Reservation**' offers good premium for the Airline. But we also saw "**Airline Website**" offers up-to-average premium. For Outside booking, the premium would be less than average. Flight to Cacun also offers higher premium, compared with other Business travels.
+
 ## Business Recommendations
+
 1.Targetive Marketing Plan
 
 2.Adjust price policy
