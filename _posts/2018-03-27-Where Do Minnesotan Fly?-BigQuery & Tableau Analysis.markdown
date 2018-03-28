@@ -1,10 +1,10 @@
 ---
 title: "Where Do Minnesotan Fly?-Flight Big Data Analysis"
 layout: post
-date: 2018-03-13 11:19
+date: 2018-03-27 23:19
 headerImage: false
 blog: true
-star: false
+star: true
 author: Ao Liu
 description: See the trend behind where Minnesotans fly 
 ---
