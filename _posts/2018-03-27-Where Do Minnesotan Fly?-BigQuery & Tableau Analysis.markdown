@@ -10,14 +10,14 @@ description: See the trend behind where Minnesotans fly
 ---
 
 ![Tableau Loading](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/tableau_loading.png)
-Got GBs of data? Tired of waiting for Tableau's response? 
+##### *Got GBs of data? Tired of waiting for Tableau's response? *
 
 BigQuery is here for help! In this post, I'll show you how I used Google's Big Data platform "BigQuery" together with Tableau for Data Analysis and Visualization. 
 
-Data Source: Flight History of [Sun Country Airlines
-](https://en.wikipedia.org/wiki/Sun_Country_Airlines)
-
 Here is the [Tableau Dashboard](https://public.tableau.com/views/sun_2/Dashboard1?:embed=y&:display_count=yes&publish=yes)
+
+##What is BigQuery? 
+
 
 
 
