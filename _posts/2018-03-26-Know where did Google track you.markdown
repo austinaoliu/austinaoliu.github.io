@@ -2,7 +2,7 @@
 title: "Know where has Google tracked you - Location History Visualization App"
 layout: post
 date: 2018-03-26 21:35
-headerImage: false
+headerImage: true
 blog: true
 star: true
 author: Ao Liu
@@ -11,7 +11,7 @@ description: See how much these giant companies have known about you
 
 After the scandal of [Cambridge Analytica](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html), I start to wonder: "How much have these Internet companies known about me? There are some methods you can find some of the data they have collected, including [Google Takeout](https://takeout.google.com/) and [Facebook](https://www.facebook.com/help/302796099745838). Some people already find it surprising that Facebook even recorded your [call list](https://abcnews.go.com/Technology/download-call-list-facebook-access/story?id=54053309). 
 
-![I see you](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/loc.jpg)
+![I see you](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/loc.jpg=100x50)
 One of the most sensitive data is the location history. Basically they know every place you have been, and even the speed you moved sometimes. So I wrote a small Shiny App to visualize your Google Location History. Although I know that, due to being an Android User for two years, Google may collected some thing *interesting*. But I don't expect to be that much! My dorm, my home, even the spot I hanged out with someone! 
 
 ![My Loc History](https://farm1.staticflickr.com/789/26194083607_9a63857e8f_o.png)
