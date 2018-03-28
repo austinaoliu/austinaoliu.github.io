@@ -9,7 +9,9 @@ author: Ao Liu
 description: See how much these giant companies have known about you
 ---
 
-After the scandal of [Cambridge Analytica](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html), I start to wonder: "How much have these Internet companies known about me? There are some methods you can find some of the data they have collected, including [Google Takeout](https://takeout.google.com/) and [Facebook](https://www.facebook.com/help/302796099745838). Some people already find it surprising that Facebook even recorded your [call list](https://abcnews.go.com/Technology/download-call-list-facebook-access/story?id=54053309). 
+After the scandal of [Cambridge Analytica](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html), I start to wonder: How much have these Internet companies known about me? 
+
+There are some methods you can find some of the data they have collected, including [Google Takeout](https://takeout.google.com/) and [Facebook](https://www.facebook.com/help/302796099745838). Some people already find it surprising that Facebook even recorded your [call list](https://abcnews.go.com/Technology/download-call-list-facebook-access/story?id=54053309). 
 
 <img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/loc.jpg" width="40%">
 
