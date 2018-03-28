@@ -15,7 +15,7 @@ There are some methods you can find some of the data they have collected, includ
 
 <img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/loc.jpg" width="40%">
 
-One of the most sensitive data is the location history. Basically they know every place you have been, and even the speed you moved sometimes. So I wrote a small Shiny App to visualize your Google Location History. Although I know that, due to being an Android User for two years, Google may collected some thing *interesting*. But I don't expect to be that much! My dorm, my home, even the spot I hanged out with someone! 
+One of the most sensitive data is the location history. Basically they know every place you have been, and even the speed you moved sometimes. So I wrote a small Shiny App to visualize your Google Location History. For myself, although I expected Google may collected some thing *interesting* as I used to be an Android User, but I don't expect to be **that much**! My dorm, my home, even the spot I hanged out with someone! 
 
 ![My Loc History](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/Example.gif)
 *Wow, you really know me a lot Mr.Google.*
