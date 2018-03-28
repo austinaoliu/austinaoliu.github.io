@@ -16,9 +16,9 @@ You can save **70%** of your waiting time utlizing the power of **Cloud**! In th
 
 ### **Here is the [Tableau Dashboard](https://public.tableau.com/views/sun_2/Dashboard1?:embed=y&:display_count=yes&publish=yes)**
 
-## What is BigQuery? 
+# What is BigQuery? 
 BigQuery is Google's solution for Big Data Analysis. Compared with Hadoop, BigQuery can do better in real-time querying and data analysis. For other competitors like Apache Spark, Google's Bigquery offers easier setup and more flexible billing plan. Also, embedded with Google's IAM system, access control would be much easier compared with Apache's ZooKeeper. 
-## Data Source
+# Data Source
 The data is from Minnesota local airline travel records of 2013 and 2014, in CSV format with 800+ MB size.
 Data should first be uploaded onto Google Cloud Storge, or other Storge Service like S3. After that, heads to the Bigquery Control Pannel, and adds the file as your data source. Bigquery would automatically try to detect the schema. But you can also define it by yourself.
 
@@ -32,7 +32,7 @@ After adding the data to your BigQuery Data source, you can either wrote SQL que
 
 We all know Tableau is not very good at working with huge dataset, especially calculations. Now with Bigquery, Tableau would send the calculation request in SQL query to the cloud and get result instantly. I tried myself and it cuts my waiting time from 10+ seconds to **less than** 1 second. Bigquery also enables people to share the same dataset without actully owning the data. So that your workbook could be live and mobile.
 
-##What do we learn about Minnesotan's data
+## What do we learn about Minnesotan's data
 
 
  
