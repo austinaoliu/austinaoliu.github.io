@@ -10,11 +10,11 @@ description: See the trend behind billion rows of Airline Travel Records
 ---
 
 ![Tableau Loading](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/tableau_loading.png)
-<center>*Got GBs of data? Tired of waiting for Tableau's response?*</center>
+<center>***Got GBs of data? Tired of waiting for Tableau's response?***</center>
 
-You can save 70% of your waiting time utlizing the power of **Cloud**. In this post, I'll show you how I used Google's Big Data platform "BigQuery" together with Tableau for Data Analysis and Visualization. 
+You can save **70%** of your waiting time utlizing the power of **Cloud**! In this post, I'll show you how I used Google's Big Data platform "BigQuery" together with Tableau for Data Analysis and Visualization. 
 
-**Here is the [Tableau Dashboard](https://public.tableau.com/views/sun_2/Dashboard1?:embed=y&:display_count=yes&publish=yes)**
+###**Here is the [Tableau Dashboard](https://public.tableau.com/views/sun_2/Dashboard1?:embed=y&:display_count=yes&publish=yes)**
 
 ##What is BigQuery? 
 BigQuery is Google's solution for Big Data Analysis. Compared with Hadoop, BigQuery can do better in real-time querying and data analysis. For other competitors like Apache Spark, Google's Bigquery offers easier setup and more flexible billing plan. Also, embedded with Google's IAM system, access control would be much easier compared with Apache's ZooKeeper. 
@@ -24,9 +24,16 @@ Data should first be uploaded onto Google Cloud Storge, or other Storge Service 
 
 <center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/Schma.png" alt="Drawing" style="width: 300px;"/> </center> 
 
-After adding the data to your BigQuery Data source, connect your Tableau to Bigquery by authenticating throught the start page.
+After adding the data to your BigQuery Data source, you can either wrote SQL queries through BigQuery's platform or connect your Tableau to Bigquery by authenticating throught the start page.
 ##Why BigQuery+Tableau
-We all know Tableau is not very good at working with huge dataset, especially calculations. Now with Bigquery, Tableau would send the calculation request in SQL query to the cloud and get result instantly. I tried myself and it cuts my waiting time from 10+seconds to less than 1 second. Bigquery also enables people to share the same dataset without actully owning the data. So that your workbook could be live and mobile.
+
+<center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/loading.png" alt="Drawing" style="width: 40px;"/></center>
+<center>*We all see this icon pretty often.*</center>
+
+We all know Tableau is not very good at working with huge dataset, especially calculations. Now with Bigquery, Tableau would send the calculation request in SQL query to the cloud and get result instantly. I tried myself and it cuts my waiting time from 10+ seconds to **less than** 1 second. Bigquery also enables people to share the same dataset without actully owning the data. So that your workbook could be live and mobile.
+
+##What do we learn about Minnesotan's data
+
 
  
 
