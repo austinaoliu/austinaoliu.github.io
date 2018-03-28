@@ -15,7 +15,7 @@ After the scandal of [Cambridge Analytica](https://www.nytimes.com/2018/03/19/te
 One of the most sensitive data is the location history. Basically they know every place you have been, and even the speed you moved sometimes. So I wrote a small Shiny App to visualize your Google Location History. Although I know that, due to being an Android User for two years, Google may collected some thing *interesting*. But I don't expect to be that much! My dorm, my home, even the spot I hanged out with someone! 
 
 ![My Loc History](https://farm1.staticflickr.com/789/26194083607_9a63857e8f_o.png)
-            *Wow, you really know me a lot Mr.Google.*
+\begin{center}*Wow, you really know me a lot Mr.Google.*\end{center}
 
 If you want to try out and be surprised. [Here is the app](https://austin-liu.shinyapps.io/google_location_privacy_app/).
 
