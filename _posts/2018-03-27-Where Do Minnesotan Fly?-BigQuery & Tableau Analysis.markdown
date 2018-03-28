@@ -10,7 +10,7 @@ description: See the trend behind billion rows of Airline Travel Records
 ---
 
 ![Tableau Loading](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/tableau_loading.png)
-<center>***Got GBs of data? Tired of waiting for Tableau's response?***</center>
+<center>Got GBs of data? Tired of waiting for Tableau's response?***</center>
 
 You can save **70%** of your waiting time utlizing the power of **Cloud**! In this post, I'll show you how I used Google's Big Data platform "BigQuery" together with Tableau for Data Analysis and Visualization. 
 
