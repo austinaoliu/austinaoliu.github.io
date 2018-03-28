@@ -14,4 +14,5 @@ In this post, I'll show you how I used Google's Big Data platform "BigQuery" tog
 Data Source: Flight History of [Sun Country Airlines
 ](https://en.wikipedia.org/wiki/Sun_Country_Airlines)
 
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/views/sun_2/Dashboard1?:embed=y&:display_count=yes&publish=yes"/>
 
