@@ -80,6 +80,6 @@ Different destinations would have different ticket booking times. For vacation p
 
 ## What could be done in the future?
 
-We could also use this data for predictive modeling to help the airline save cost and avoid the risk of over-selling. Or use clustering model for personalized promotions and bundles. Spark ML would be your good friend for Big Data modeling, and both Google Dataproc and Amazon EMR could be used for setup.
+We could also use this data for predictive modeling to help the airline save cost and avoid the risk of over-selling. Or use clustering model and association rules for personalized promotions and bundles. Spark ML would be your good friend for Big Data modeling, and both Google Dataproc and Amazon EMR could be used for setup.
 
 
