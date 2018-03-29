@@ -25,11 +25,11 @@ Data should first be uploaded to Google Cloud Storage, or other Storage Service 
 
 <center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/Schma.png" alt="Drawing" style="width: 300px;"/> </center> 
 
-After adding the data to your BigQuery Data source, you can either wrote SQL queries through BigQuery's platform or connect your Tableau to Bigquery by authenticating through the start page.
+After adding the data to your BigQuery Data source, you can either wrote SQL queries through BigQuery's platform, or connect your Tableau to Bigquery by authenticating through the start page.
 ## Why BigQuery+Tableau
 
 <center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/loading.png" alt="Drawing" style="width: 40px;"/></center>
-<center>We all see this icon pretty often.</center>
+<center>We all have seen this icon pretty often.</center>
 
 We all know Tableau is not very good at working with huge dataset, especially calculations. Now with Bigquery, Tableau would send the calculation request in SQL query to the cloud and get result instantly. I tried myself and it cuts my waiting time from 10+ seconds to **less than** 1 second. Bigquery also enables people to share the same dataset without actually owning the data. So that your workbook could be live and mobile.
 
