@@ -11,6 +11,8 @@ description: How can Natural Language Processing predict your next word
 
 This article would show you how I build a Rshiny app for Natural Language Processing and Prediction.
 
+![Prediction](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/predictive_keyboard1.png)
+
 ## 1.Data Processing
 * First, all non-English characters are removed; numbers, punctuation, whitespace was also removed. All text is also changed to lowercase.
 * Profane words are also removed. The project used Carnegie Mellon University's resource: [Offensive/Profane Word List.](https://www.cs.cmu.edu/~biglou/resources/bad-words.txt)
