@@ -11,4 +11,5 @@ description: First website post
 
 ## Welcome!
 
-Welcome to my personal website! I plan to update this site regularly throughout my time as a master student at University of Minnesota, where I am focusing on data analysis and machine learning. I hope to not only post about the progress of my research, but to also explore other ideas at the forefront of machine learning and make them more accessible. Look for the website to pick up more content in the upcoming months and years.
+Welcome to my personal website! I plan to update this site regularly throughout my time as a master student at University of Minnesota, where I am focusing on data analysis and machine learning models. I hope to not only post about my progress, but to also explore other ideas for data analysis and make them more accessible. Look for the website to pick up more content in the upcoming months and years.
+
