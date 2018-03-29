@@ -9,11 +9,13 @@ author: Ao Liu
 description: See how much these giant companies have known about you
 ---
 
+<center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/cartoon-big-data-privacy.png" width="80%"></center>
+<center>&copy; Ted Goff</center>
+
 After the scandal of [Cambridge Analytica](https://www.nytimes.com/2018/03/19/technology/facebook-cambridge-analytica-explained.html), I start to wonder: How much have these Internet companies known about me? 
 
 There are some methods you can find some of the data they have collected, including [Google Takeout](https://takeout.google.com/) and [Facebook](https://www.facebook.com/help/302796099745838). Some people already had some surprising finding that Facebook even recorded [their call list](https://abcnews.go.com/Technology/download-call-list-facebook-access/story?id=54053309). 
 
-<img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/loc.jpg" width="40%">
 
 One of the most sensitive data is the location history. Basically they know every place you have been, and even the speed you moved sometimes. So I wrote a small Shiny App to visualize your Google Location History. For myself, although I expected Google may collected some thing *interesting* as I used to be an Android User, but I don't expect to be **that much**! My dorm, my home, even the spot I hanged out with someone! 
 
