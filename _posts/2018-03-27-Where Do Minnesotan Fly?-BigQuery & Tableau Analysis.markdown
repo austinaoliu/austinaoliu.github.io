@@ -2,7 +2,7 @@
 title: "Where did Minnesotans Fly? - Flight Data Analysis"
 layout: post
 date: 2018-03-27 23:19
-headerImage: true
+headerImage: false
 blog: true
 star: true
 author: Ao Liu
