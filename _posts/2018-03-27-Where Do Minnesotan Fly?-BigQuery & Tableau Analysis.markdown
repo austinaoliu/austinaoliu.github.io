@@ -8,9 +8,11 @@ star: true
 author: Ao Liu
 description: See the trend behind billion rows of Airline Travel Records  
 ---
-<center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/airport.jpg" style="width: 550px;"/> </center> 
+ 
 
 ## Introduction
+<center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/airport.jpg" style="width: 550px;"/> </center>
+
 <center><img src="https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/tableau_loading.png" style="width: 350px;"/> </center> 
 <center>Got GBs of data? Tired of waiting for Tableau's response?</center>
 
