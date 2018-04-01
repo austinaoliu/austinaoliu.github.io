@@ -2,7 +2,7 @@
 title: "Top Chocolate Bars in UK - Data Visualization with Tableau(MoM 3/29) "
 layout: post
 date: 2018-03-29 22:19
-headerImage: false
+headerImage: true
 blog: true
 star: false
 author: Ao Liu
