@@ -4,7 +4,7 @@ layout: post
 date: 2018-04-30 16:19
 headerImage: false
 blog: true
-star: false
+star: true
 author: Ao Liu
 description: Use Bokeh for Dashboard with Data Visulization
 ---
