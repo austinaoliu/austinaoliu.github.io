@@ -2,7 +2,7 @@
 title: "Python Bokeh Dashboard for Continential Development Gap"
 layout: post
 date: 2018-04-30 16:19
-headerImage: false
+headerImage: true
 blog: true
 star: true
 author: Ao Liu
@@ -14,5 +14,3 @@ I used Bokeh and this [Dataset](https://github.com/aoliu95/Continent_Gapminer/bl
 Because Bokeh does not offer free platforms like [RShiny](https://shiny.rstudio.com/), we need another web application deployment channel to host it. For me I used [Heroku](https://www.heroku.com/). Here is the [live demo](https://bokeh-gap.herokuapp.com/bokehgap) on Heroku.
 
 ![Screenshot](https://github.com/aoliu95/Continent_Gapminer/raw/master/Demo.gif)  
-
-<iframe width = "855" height = "855" src="https://dashboard.heroku.com/apps/bokeh-gap"/></iframe>
