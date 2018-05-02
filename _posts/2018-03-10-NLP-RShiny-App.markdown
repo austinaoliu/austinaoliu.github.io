@@ -4,7 +4,7 @@ layout: post
 date: 2018-03-15 01:19
 headerImage: false
 blog: true
-star: false
+star: true
 author: Ao Liu
 description: How can Natural Language Processing predict your next word
 ---
