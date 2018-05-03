@@ -15,7 +15,7 @@ Data visulizaiton would always be fun if you have some interesting data. For thi
 
 ![](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/tableauburger.gif)
 
-##Data Introduction
+## Data Introduction
 According to [QSR 50](https://www.qsrmagazine.com/QSR-50) , **McDonald’s**, **Burger King** and **Wendy’s** are ranked as the top three fast food chains in the US.
 
 ###Data Source:
