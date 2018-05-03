@@ -13,6 +13,8 @@ description: See how fast food chains compete with each other on your screen
  
 Data visulizaiton would always be fun if you have some interesting data. For this one, I got this data from parts of the take home challenge. This is what I made in two hours. Here is the [Tableau Dashboard](https://public.tableau.com/views/Fast_foodTVAd/Dashboard1?:embed=y&:display_count=yes&publish=yes).
 
+![](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/tableauburger.gif)
+
 ##Data Introduction
 According to [QSR 50](https://www.qsrmagazine.com/QSR-50) , **McDonald’s**, **Burger King** and **Wendy’s** are ranked as the top three fast food chains in the US.
 
