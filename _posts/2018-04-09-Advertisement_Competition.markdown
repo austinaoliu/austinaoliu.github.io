@@ -11,7 +11,7 @@ description: See how fast food chains compete with each other on your screen
 
 ![](http://p6c7brrnk.bkt.gdipper.com/ham.png?imageMogr2/thumbnail/!70p)
  
-Data visulizaiton would always be fun if you have some interesting data. For this one, I got this data from parts of the take home challenge. This is what I made in two hours. Here is the [Tableau Dashboard](https://public.tableau.com/views/Fast_foodTVAd/Dashboard1?:embed=y&:display_count=yes&publish=yes).
+Data visulizaiton would always be fun if you have some interesting data. For this one, I got this data from parts of the take home challenge. This is what I made in two hours. **Here is the [Tableau Dashboard](https://public.tableau.com/views/Fast_foodTVAd/Dashboard1?:embed=y&:display_count=yes&publish=yes)**.
 
 ![](https://github.com/aoliu95/aoliu95.github.io/raw/master/assets/images/tableauburger.gif)
 
