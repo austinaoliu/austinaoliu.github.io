@@ -57,4 +57,4 @@ But how would they compete with each other on the **limited audience resources**
 ### Data Preparation
 To compare the brand on the same level, we took only the networks with the top **7** viewers, including CBS, NBC, ABC, Fox, Univision, USA and ESPN.
 ### Measurements:  
-\frac{Airing Time of the brand}{Total Airing time of 3 brands}
+Share of Voice = Airing Time of the brand/Total Airing time of 3 brands
