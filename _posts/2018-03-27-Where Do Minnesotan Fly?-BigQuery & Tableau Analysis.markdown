@@ -19,6 +19,7 @@ description: See the trend behind billion rows of Airline Travel Records
 You can save **70%** of your waiting time utilizing the power of **Cloud**! In this post, I'll show you how I used Google's Big Data platform "BigQuery" together with Tableau for Data Analysis and Visualization. 
 
 ### **Here is the [Tableau Dashboard](https://public.tableau.com/views/sun_2/Dashboard1?:embed=y&:display_count=yes&publish=yes)**
+![](http://p6c7brrnk.bkt.gdipper.com/flight.png?imageMogr2/thumbnail/!70p)
 
 ## What is BigQuery? 
 BigQuery is Google's solution for Big Data Analysis. Compared with Hadoop, BigQuery can do better in real-time querying and data analysis. For other competitors like Apache Spark, Google's Bigquery offers easier setup and more flexible billing plan. Also, embedded with Google's IAM system, access control would be much easier compared with Apache's ZooKeeper. 
