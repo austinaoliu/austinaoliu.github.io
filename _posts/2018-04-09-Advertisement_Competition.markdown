@@ -29,7 +29,7 @@ Alphonso Airings Report for McDonald’s, Burger King and Wendy’s, collected b
 
 **Time**: Date and time, Time Zone, length, EQ Units
 
-##Exploratory Analysis - Content
+## Exploratory Analysis - Content
 **McDonald’s**:Aired on **62** Networks with **1,796** Shows
 
 Most Aired Advertisement:
@@ -47,14 +47,14 @@ Most Aired Advertisement:
 Most Aired Advertisement: 
 Wendy‘s 4 For \$ 4 Quality Is Our Recipe TV Commercial with **5,037** EQ units
 
-##Exploratory Analysis - Network
+## Exploratory Analysis - Network
 
-##Exploratory Analysis - Time
+## Exploratory Analysis - Time
 
-##Competition Analysis
+## Competition Analysis
 But how would they compete with each other on the **limited audience resources**?
 
-###Data Preparation
+### Data Preparation
 To compare the brand on the same level, we took only the networks with the top **7** viewers, including CBS, NBC, ABC, Fox, Univision, USA and ESPN.
-###Measurements:  
+### Measurements:  
 \frac{Airing Time of the brand}{Total Airing time of 3 brands}
