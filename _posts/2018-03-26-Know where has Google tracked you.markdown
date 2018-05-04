@@ -4,7 +4,7 @@ layout: post
 date: 2018-03-26 21:35
 headerImage: true
 blog: true
-star: true
+star: false
 author: Ao Liu
 description: See how much these giant companies have known about you
 ---
