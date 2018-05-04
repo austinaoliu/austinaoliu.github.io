@@ -96,7 +96,9 @@ We would compare brands detailed airtime strategy between two different types of
 
 #### ESPN ![](http://p6c7brrnk.bkt.gdipper.com/1525459770.png?imageMogr2/thumbnail/!70p)
 
+
 <center><img src="http://p6c7brrnk.bkt.gdipper.com/espn.png?imageMogr2/thumbnail/!70p") style="width: 550px;"/> </center>
+
 
 Insight:
 
@@ -106,7 +108,9 @@ Insight:
 
 #### CBS ![](http://p6c7brrnk.bkt.gdipper.com/1525459851.png?imageMogr2/thumbnail/!70p)
 
+
 <center><img src="http://p6c7brrnk.bkt.gdipper.com/cbs.png?imageMogr2/thumbnail/!70p") style="width: 550px;"/> </center>
+
 
 Insight:
 
