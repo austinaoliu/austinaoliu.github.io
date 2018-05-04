@@ -96,10 +96,8 @@ We would compare brands detailed airtime strategy between two different types of
 
 #### ESPN ![](http://p6c7brrnk.bkt.gdipper.com/1525459770.png?imageMogr2/thumbnail/!70p)
 
-
-<img src="http://p6c7brrnk.bkt.gdipper.com/espn.png?imageMogr2/thumbnail/!70p") style="width: 550px;"/>
-
-
+![](http://p6c7brrnk.bkt.gdipper.com/espn.png?imageMogr2/thumbnail/!70p)
+ 
 Insight:
 
 **Wendy‘s** loves weekends. It puts most their expense and took the dominance for **Day Time and Early Fringe** during weekends, where the weight could be as high as 76%. They also took much advantage of **Weekend Prime Time**.
@@ -108,9 +106,7 @@ Insight:
 
 #### CBS ![](http://p6c7brrnk.bkt.gdipper.com/1525459851.png?imageMogr2/thumbnail/!70p)
 
-
-<img src="http://p6c7brrnk.bkt.gdipper.com/cbs.png?imageMogr2/thumbnail/!70p") style="width: 550px;"/>
-
+![](http://p6c7brrnk.bkt.gdipper.com/cbs.png?imageMogr2/thumbnail/!70p)
 
 Insight:
 
