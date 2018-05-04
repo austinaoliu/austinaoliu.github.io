@@ -18,10 +18,10 @@ Data visulizaiton would always be fun if you have some interesting data. For thi
 ## Data Introduction
 According to [QSR 50](https://www.qsrmagazine.com/QSR-50) , **McDonald’s**, **Burger King** and **Wendy’s** are ranked as the top three fast food chains in the US.
 
-### Data Source:
+### -Data Source:
 Alphonso Airings Report for McDonald’s, Burger King and Wendy’s, collected between Jan 1st, 2018 and Apr 6th, 2018
 
-### Dimensions:
+### -Dimensions:
 
 **Advertisement Content**: Title, Brand, Product, Category
 
@@ -48,6 +48,7 @@ Most Aired Advertisement:
 Wendy‘s 4 For \$ 4 Quality Is Our Recipe TV Commercial with **5,037** EQ units
 
 ## Exploratory Analysis - Network
+
 ![](http://p6c7brrnk.bkt.gdipper.com/mc_net.png?imageMogr2/thumbnail/!70p)
 ![](http://p6c7brrnk.bkt.gdipper.com/bgnet.png?imageMogr2/thumbnail/!70p)
 ![](http://p6c7brrnk.bkt.gdipper.com/windynet.png?imageMogr2/thumbnail/!70p)
@@ -74,7 +75,7 @@ To compare the brand on the same level, we took only the networks with the top *
 
 ### Competition Analysis – Across all channels
 
-![](http://p6c7brrnk.bkt.gdipper.com/1525459657.png?imageMogr2/thumbnail/!70p)
+<center><img src="http://p6c7brrnk.bkt.gdipper.com/acrossch.png?imageMogr2/thumbnail/!70p" style="width: 550px;"/> </center>
 
 #### Sports
 ![](http://p6c7brrnk.bkt.gdipper.com/1525459674.png?imageMogr2/thumbnail/!70p)
@@ -95,7 +96,7 @@ We would compare brands detailed airtime strategy between two different types of
 
 #### ESPN ![](http://p6c7brrnk.bkt.gdipper.com/1525459770.png?imageMogr2/thumbnail/!70p)
 
-![](http://p6c7brrnk.bkt.gdipper.com/1525459779.png?imageMogr2/thumbnail/!70p)
+<center><img src="http://p6c7brrnk.bkt.gdipper.com/espn.png?imageMogr2/thumbnail/!70p") style="width: 550px;"/> </center>
 
 Insight:
 
@@ -105,8 +106,7 @@ Insight:
 
 #### CBS ![](http://p6c7brrnk.bkt.gdipper.com/1525459851.png?imageMogr2/thumbnail/!70p)
 
-
-![](http://p6c7brrnk.bkt.gdipper.com/1525459846.png?imageMogr2/thumbnail/!70p)
+<center><img src="http://p6c7brrnk.bkt.gdipper.com/cbs.png?imageMogr2/thumbnail/!70p") style="width: 550px;"/> </center>
 
 Insight:
 
