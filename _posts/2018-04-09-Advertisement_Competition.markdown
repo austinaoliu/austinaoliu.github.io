@@ -4,7 +4,7 @@ layout: post
 date: 2018-04-09 16:19
 headerImage: true
 blog: true
-star: false
+star: true
 author: Ao Liu
 description: See how fast food chains compete with each other on your screen
 ---
