@@ -1,5 +1,4 @@
 ---
-comments: true
 title: "Advertisement Competition between top 3 Fast Food Chains -Tableau Vizulization and Analysis"
 layout: post
 date: 2018-04-09 16:19
