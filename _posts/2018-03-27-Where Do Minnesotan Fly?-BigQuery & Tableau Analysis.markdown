@@ -6,6 +6,10 @@ headerImage: false
 blog: true
 star: true
 author: Ao Liu
+tag:
+- Minnesota
+- Airlines
+- Revenue Analysis
 description: See the trend behind billion rows of Airline Travel Records  
 ---
  
