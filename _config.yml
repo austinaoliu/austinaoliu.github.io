@@ -44,8 +44,8 @@ disqus:
 # pinterest: mypinterest
 linkedin: ao-liu
 # youtube: myyoutube
-spotify: austinlol1995
-github: aoliu95
+#spotify: austinlol1995
+github: austinaoliu
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -53,12 +53,11 @@ github: aoliu95
 medium: ao_liu
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ao.liu95 at google's popular email service
 
 authors:
     Ao Liu:
         name: Ao Liu
-        bio: Data Analyst | Seeking 2018 Full Time Posotions
+        bio: Data Engineer
         external-image: false
         picture: assets/images/profile.jpg
 
